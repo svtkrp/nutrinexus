@@ -110,7 +110,7 @@
 		<profile>
 			<id>release</id>
 			<properties>
-				<hibernate.ddl.auto>validate</hibernate.ddl.auto>
+				<hibernate.ddl.auto>update</hibernate.ddl.auto>
 			</properties>
 			<build>
 				<plugins>
